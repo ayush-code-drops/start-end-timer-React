@@ -1,2 +1,2 @@
-# start-end-timer-React
+# stopTimer-React
 Created with CodeSandbox
